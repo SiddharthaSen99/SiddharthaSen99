@@ -26,7 +26,7 @@ I'm an AI enthusiast from India, currently pursuing a Master's degree at TU Delf
 ## 📫 Connect With Me
 - **LinkedIn:** Siddhartha Sen (https://www.linkedin.com/in/sen99/)
 - **Twitter:** [@SidTheBuilder] (https://twitter.com/SidTheBuilder)
-- **GitHub:** [@SiddharthaSen99]([Your-GitHub-Profile-Link](https://github.com/SiddharthaSen99))
+- **GitHub:** [@SiddharthaSen99] (https://github.com/SiddharthaSen99)
 - **Email:** (siddhartha99.sen@gmail.com)
 ---
 
