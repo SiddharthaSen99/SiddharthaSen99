@@ -2,7 +2,7 @@
 
 I'm an AI enthusiast from India, currently pursuing a Master's degree at TU Delft in the Netherlands. Welcome to my GitHub page!
 
-![Insert Your Image Here](URL-to-your-image)
+![ps: Never worked in Google, just built a Google Assistant App xD]((https://github.com/SiddharthaSen99/SiddharthaSen99.github.io/blob/main/IMG_20190526_175158.jpg))
 
 ## 🌟 About Me
 - 🤖 Passionate about **Artificial Intelligence** and its transformative potential.
