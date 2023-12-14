@@ -20,7 +20,8 @@ I'm an AI enthusiast from India, currently pursuing a Master's degree at TU Delf
 - **Frameworks and tools:** Familiar with Pytorch, Gym, Langchain, Chainlit and Streamlit
 
 ## 📈 Current Projects
-- **Golf Course Routing Using AI** [This is my ongoing master's thesis project whereby I try to optimise a golf course routing using artificial intelligence techniques such as genetic algorithms and reinforcement learning.](https://github.com/SiddharthaSen99/AI_Golf_Course_Design)
+- **Golf Course Routing Using AI**: Applying artificial intelligence techniques such as genetic algorithms and reinforcement learning to optimise the routing of a golf course. (This repo is currently private as my thesis is still ongoing!)
+- **Astrobot**: An AI powered chatbot based on the quantized llama2 model for answering your questions related to astronomy and astrophysics. (https://github.com/SiddharthaSen99/Astrobot)
 - More projects can be found in my profile (https://github.com/SiddharthaSen99)
 
 ## 📫 Connect With Me
